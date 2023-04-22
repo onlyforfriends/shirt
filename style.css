@@ -1,0 +1,14 @@
+.Roblox{
+    width: 100%;
+    height: 25px;
+    background-color:rgb(70, 173, 87);
+    text-align: center;
+    font-size: 25px;
+    padding: 12px;   
+}
+
+.div {
+    background-image: src("roblox.jpeg");
+    height:150px;
+    padding: 10px;
+}
